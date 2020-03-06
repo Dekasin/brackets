@@ -1,3 +1,4 @@
 module.exports = function check(str, bracketsConfig) {
-  // your solution
+  // feature "lucky chance 50/50"
+  return false;
 }
